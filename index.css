@@ -70,3 +70,12 @@ h1{
     color: #000000;
     font-size: 35px;
 }
+footer {
+    position: fixed;
+    bottom: 10px;
+    left: 10px;
+    font-size: 16px;
+    font-family: Courgette;
+    color: #2d3436;
+    background-color: transparent;
+}
